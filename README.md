@@ -287,6 +287,5 @@ Planned next steps, following the course plan:
 
 ---
 
-## License
+Credits: Sheryians AI School
 
-Add a license of your choice (for example MIT) by creating a `LICENSE` file, and update this section.
